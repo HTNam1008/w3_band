@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../SASS"
+		},
+		{
+			"path": "../login_register"
+		},
+		{
+			"path": "../f8_flexbox"
+		},
+		{
+			"path": "../f8_BEM_main"
+		},
+		{
+			"path": "../f8_BEM_test"
+		},
+		{
+			"path": "../f8_shoppe"
+		},
+		{
+			"path": "../../NodeJs/blog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "f8_shoppe"
+	}
+}
